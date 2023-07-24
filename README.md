@@ -4,8 +4,7 @@ My my highest education is **dipl. ing for biomedical engineering**👨‍🎓 a
 For over 5 years I gave computer training for windows and the microsoft office programs. My first PC was a commodore64.
 
 
-
-
+![Marcus Obediek](https://m-oberdiek.de/img/winker.gif)
 
 
 
