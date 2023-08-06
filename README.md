@@ -5,7 +5,8 @@ For over 5 years I gave computer training for windows and the microsoft office p
 ___
 
 <img src="https://github.com/M-Oberdiek/M-Oberdiek/assets/139952562/67bfed4b-f170-4227-b73b-4efa7d573eea" 
-alt="WebDesign" width="240" height="240" border="20" /> Good to see you! 
+alt="WebDeveloper" width="240" height="240" border="20" />
+<img src="https://github.com/M-Oberdiek/M-Oberdiek/assets/139952562/63ea372f-1df1-4b4e-a37a-5e9fcdd3cee6" alt="WebDesign" width="240" height="240" border="20" /> 
 
 ___
 
